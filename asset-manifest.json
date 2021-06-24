@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/reddit-scraper/static/js/main.b86e99a7.chunk.js",
-    "main.js.map": "/reddit-scraper/static/js/main.b86e99a7.chunk.js.map",
+    "main.js": "/reddit-scraper/static/js/main.e8d71c06.chunk.js",
+    "main.js.map": "/reddit-scraper/static/js/main.e8d71c06.chunk.js.map",
     "runtime-main.js": "/reddit-scraper/static/js/runtime-main.d8ac9df1.js",
     "runtime-main.js.map": "/reddit-scraper/static/js/runtime-main.d8ac9df1.js.map",
     "static/js/2.959480b4.chunk.js": "/reddit-scraper/static/js/2.959480b4.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.d8ac9df1.js",
     "static/js/2.959480b4.chunk.js",
-    "static/js/main.b86e99a7.chunk.js"
+    "static/js/main.e8d71c06.chunk.js"
   ]
 }
